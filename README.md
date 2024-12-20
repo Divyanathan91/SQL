@@ -19,8 +19,7 @@ step 1: To determine the total number of cities within the country to provide a 
 ![image](https://github.com/user-attachments/assets/b0ea5047-9cfa-4a32-94b7-4af54c714818)
 #	City with the Lowest Population
 ![image](https://github.com/user-attachments/assets/cbd20157-182c-4a49-bb0d-b2b8b84ff45f)
-
-# 	Capital Cities Population Comparison
+# Capital Cities Population Comparison
 step 1: we need join two tables using joins
 ![image](https://github.com/user-attachments/assets/21bbc99a-bfcd-4b4c-9e2a-5c24f88d7a48)
 # Cities with High GDP per Capita
